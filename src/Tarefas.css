@@ -1,0 +1,14 @@
+.pendentes{
+    list-style: none;
+}
+
+.concluidas{
+    list-style: none;
+    text-decoration-line: line-through;
+}
+
+.concluidas button{
+    margin-left: 5px;
+    font-size: 14px;
+    padding: 5px;
+}
